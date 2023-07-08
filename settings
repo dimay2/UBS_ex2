@@ -1,0 +1,6 @@
+{
+	"scan_id":"5",
+	"nessus_host":"192.168.0.105",
+	"api_access_key":"bf3229a1c6e0f26240eb55e8c109a80262d18546613d65d2b4dc826bcce1af91",
+	"api_secret_key":"96ee801945cda30e4f0fb8a85ef586ae092e9fb9cfab842a8bd01805cff7f6dd"
+}
